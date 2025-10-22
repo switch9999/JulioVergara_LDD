@@ -19,4 +19,20 @@ public class SceneChanger : MonoBehaviour
     {
         SceneManager.LoadScene("SelectCharacter");
     }
+
+    public void Settings()
+    {
+        SceneManager.LoadScene("Settings");
+    }
+
+    public void Credits()
+    {
+        SceneManager.LoadScene("Credits");
+    }
+
+    public void Level1()
+    {
+        SceneManager.LoadScene("Level1");
+    }
 }
+    
