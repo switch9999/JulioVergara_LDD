@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3400673dbd98c1a43a5c49be6b623746
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314645
+  packageName: Procedural Tilemap Generator 2D
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/TilemapGenerator2D/Prefabs/Rock.prefab
+  uploadId: 742456

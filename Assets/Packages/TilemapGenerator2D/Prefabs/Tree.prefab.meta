@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 837621cfd87f8494faf5a644f380eeac
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314645
+  packageName: Procedural Tilemap Generator 2D
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/TilemapGenerator2D/Prefabs/Tree.prefab
+  uploadId: 742456

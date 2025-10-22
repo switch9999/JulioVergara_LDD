@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 45a5bfd1e85bb4b49ac7d455305b0e17
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314645
+  packageName: Procedural Tilemap Generator 2D
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/TilemapGenerator2D/Scripts/Extensions/NativeArrayExtensions.cs
+  uploadId: 742456
